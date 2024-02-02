@@ -9,23 +9,22 @@ This project is a Python-based motion detection and recording system using OpenC
 Install the required libraries using:  
 ```bash
 pip install opencv-python
-```
-#Usage
+```  
 Clone the repository:
 ```bash
 cd your-repository
 git clone https://github.com/your-username/your-repository.git
-```
+``` 
 #Run the script
 ```bash
 python main.py
 ```
-#Features  
+# Features  
 - Motion detection with Haar cascades for faces and full bodies.
 - Adjustable recording duration (default: 5 seconds).
 - Recorded clips saved in the Assets/ directory
 
-#Acknowledgments
+# Acknowledgments
 OpenCV - Open Source Computer Vision Library
  
 Feel free to customize it according to your project details and preferences.
