@@ -15,7 +15,7 @@ Clone the repository:
 cd your-repository
 git clone https://github.com/your-username/your-repository.git
 ``` 
-#Run the script
+Run the script
 ```bash
 python main.py
 ```
